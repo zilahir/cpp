@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1432492179 source:/home/zsike/Dokumentumok/prog/gyak/Madarak/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"beolvasas.h"
+
+1432492443 source:/home/zsike/Dokumentumok/prog/gyak/Madarak/beolvasas.cpp
+	"beolvasas.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1432492407 /home/zsike/Dokumentumok/prog/gyak/Madarak/beolvasas.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1432492443 source:/home/zsike/Receptek/Dokumentumok/prog/gyak/Madarak/beolvasas.cpp
+	"beolvasas.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1432492407 /home/zsike/Receptek/Dokumentumok/prog/gyak/Madarak/beolvasas.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1432492179 source:/home/zsike/Receptek/Dokumentumok/prog/gyak/Madarak/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"beolvasas.h"
+
